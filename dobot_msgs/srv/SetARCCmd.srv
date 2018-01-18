@@ -1,0 +1,11 @@
+float32 x1
+float32 y1
+float32 z1
+float32 r1
+float32 x2
+float32 y2
+float32 z2
+float32 r2
+---
+int32 result
+uint64 queuedCmdIndex

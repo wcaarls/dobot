@@ -1,0 +1,6 @@
+float32 velocityRatio
+float32 accelerationRatio
+bool isQueued
+---
+int32 result
+uint64 queuedCmdIndex

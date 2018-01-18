@@ -1,0 +1,7 @@
+uint8 index
+uint8 isEnabled
+float32 speed
+bool isQueued
+---
+int32 result
+uint64 queuedCmdIndex

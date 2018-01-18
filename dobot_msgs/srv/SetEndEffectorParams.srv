@@ -1,0 +1,7 @@
+float32 xBias
+float32 yBias
+float32 zBias
+bool isQueued
+---
+int32 result
+uint64 queuedCmdIndex

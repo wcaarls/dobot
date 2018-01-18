@@ -1,0 +1,6 @@
+---
+int32 result
+float32 xyzVelocity
+float32 rVelocity
+float32 xyzAcceleration
+float32 rAcceleration

@@ -1,0 +1,8 @@
+float32 xyzVelocity
+float32 rVelocity
+float32 xyzAcceleration
+float32 rAcceleration
+bool isQueued
+---
+int32 result
+uint64 queuedCmdIndex

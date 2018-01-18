@@ -1,0 +1,4 @@
+uint8 address
+---
+int32 result
+uint8 multiplex

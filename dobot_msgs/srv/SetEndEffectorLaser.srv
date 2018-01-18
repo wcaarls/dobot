@@ -1,0 +1,6 @@
+uint8 enableCtrl
+uint8 on
+bool isQueued
+---
+int32 result
+uint64 queuedCmdIndex

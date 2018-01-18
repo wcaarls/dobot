@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>dobot_api</name>
+  <version>0.0.0</version>
+  <description>The dobot_api package</description>
+
+  <maintainer email="wouter@caarls.org">Wouter Caarls</maintainer>
+
+  <license>BSD</license>
+
+  <author email="wouter@caarls.org">Wouter Caarls</author>
+  <author email="liuzhufu@dobot.cc">Liu Zhufu</author> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

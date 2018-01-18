@@ -1,0 +1,6 @@
+---
+int32 result
+float32 planAcc
+float32 junctionVel
+float32 acc
+uint8 realTimeTrack

@@ -1,0 +1,4 @@
+---
+int32 result
+float32 velocityRatio
+float32 accelerationRatio

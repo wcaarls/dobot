@@ -1,0 +1,6 @@
+<launch>
+  <group ns="dobot">
+    <rosparam file="$(find dobot_bringup)/cfg/controller.yaml"/>
+    <node name="dobot_controller" type="controller" pkg="dobot_driver" required="true"/>
+  </group>
+</launch>

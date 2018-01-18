@@ -1,0 +1,6 @@
+float32 jumpHeight
+float32 zLimit
+bool isQueued
+---
+int32 result
+uint64 queuedCmdIndex

@@ -1,0 +1,5 @@
+uint8 address
+---
+int32 result
+float32 frequency
+float32 dutyCycle
