@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(dobot_driver)
 
+set(CMAKE_CXX_FLAGS "-fPIC")
+
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
